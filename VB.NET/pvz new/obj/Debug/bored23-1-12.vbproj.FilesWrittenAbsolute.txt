@@ -1,0 +1,6 @@
+/home/rajan/programming/misc-projects/pvz new/obj/Debug/bored23_1_12.frmPvZ.resources
+/home/rajan/programming/misc-projects/pvz new/obj/Debug/bored23_1_12.plant.resources
+/home/rajan/programming/misc-projects/pvz new/bin/bored23-1-12.exe.mdb
+/home/rajan/programming/misc-projects/pvz new/bin/bored23-1-12.exe
+/home/rajan/programming/misc-projects/pvz new/obj/Debug/bored23-1-12.exe
+/home/rajan/programming/misc-projects/pvz new/obj/Debug/bored23-1-12.exe.mdb

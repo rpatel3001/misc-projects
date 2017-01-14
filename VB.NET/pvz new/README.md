@@ -1,3 +1,3 @@
 #PvZ
 
-A clunky Plants vs Zombies style game, written in sixth grade.
+A clunky Plants vs Zombies style game, written in ninth grade.
